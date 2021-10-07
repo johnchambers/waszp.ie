@@ -1,36 +1,15 @@
-## Welcome to GitHub Pages
+## WASZP Class Association of Ireland
 
 You can use the [editor on GitHub](https://github.com/johnchambers/waszp.ie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 2021 Class AGM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our Class AGM will be held online on on 3rd Nov 2021 from 8:00pm. We expect to finish up my 9:30pm but duration will be depend on the length of our agenda and discussions. [meeting link](https://meet.google.com/vbq-fnrn-iej).
 
-```markdown
-Syntax highlighted code block
+If you would like to have something discussed, have a proposal for the class or wish to be considered for a committee nomination please contact me directly by phone, WhatsApp or email at johncham81@gmail.com . Hoping we can have a constructive meeting and take a few more steps in the right direction to strengthen the Irish Class.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnchambers/waszp.ie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
